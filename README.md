@@ -65,7 +65,7 @@
 |  Linux  |                  [Clash](https://github.com/Dreamacro/clash/releases/tag/premium)                  |  ❌  |
 | Android |               [ClashForAndroid](https://github.com/Kr328/ClashForAndroid/releases/)                |  ❌  |
 |   IOS   |              [Quantumult X](https://apps.apple.com/us/app/quantumult-x/id1443988620)               |  ✅  |
-|   IOS   |                            [https://nssurge.com/](https://nssurge.com/)                            |  ✅  |
+|   IOS   |                                    [Surge](https://nssurge.com/)                                   |  ✅  |
 |   IOS   |               [Shadowrocket](https://apps.apple.com/us/app/shadowrocket/id932747118)               |  ✅  |
 
 ## 声明

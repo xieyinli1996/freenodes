@@ -4,6 +4,24 @@
 </h1>
 
 <p align="center">
+  <img src="https://img.shields.io/github/actions/workflow/status/mertguvencli/http-proxy-list/main.yml?label=Updated%20Every%204%20Hours">
+  <br>
+  <a href="https://raw.githubusercontent.com/proxifly/free-proxy-list/main/proxies/all/data.txt">
+    <img src="https://img.shields.io/badge/all-270-blue">
+  </a>
+  <a href="https://raw.githubusercontent.com/proxifly/free-proxy-list/main/proxies/protocols/http/data.txt">
+    <img src="https://img.shields.io/badge/vmess-106-blue">
+  </a>
+  <a href="https://raw.githubusercontent.com/proxifly/free-proxy-list/main/proxies/protocols/socks4/data.txt">
+    <img src="https://img.shields.io/badge/ss-151-blue">
+  </a>
+  <a href="https://raw.githubusercontent.com/proxifly/free-proxy-list/main/proxies/protocols/socks5/data.txt">
+    <img src="https://img.shields.io/badge/ssr-5-blue">
+  </a>
+    <a href="https://raw.githubusercontent.com/proxifly/free-proxy-list/main/proxies/protocols/socks5/data.txt">
+    <img src="https://img.shields.io/badge/trojan-8-blue">
+  </a>
+  <br>
   <a href="https://img.shields.io/github/watchers/freenodes/freenodes">
     <img src="https://img.shields.io/github/watchers/freenodes/freenodes" alt="watchers">
   </a>
@@ -21,14 +39,43 @@
   </a>
 </p>
 
-## 免费节点及订阅地址：
+## FreeNodes 的免费代理列表
 
-- Proxies:  [https://raw.githubusercontent.com/freenodes/freenodes/main/clash.yaml](https://raw.githubusercontent.com/freenodes/freenodes/main/clash.yaml)
-- Proxies with Speed Test:  [https://raw.githubusercontent.com/freenodes/freenodes/main/clash_speed.yaml](https://raw.githubusercontent.com/freenodes/freenodes/main/clash_speed.yaml)
+每 4 小时，FreeNodes 从网络上获取新的代理，包括 SS，SSR，Vmess 和 Trojan 代理。
 
-## Clash、SS等客户端订阅地址一键转换：
+> FreeNodes 在最新更新中发现来自 30+ 个国家/地区的 200+ 个工作代理。
+
+## 🦄 特点
+
+- 🆓 免费
+- 📝 每 4 小时更新一次
+- 😊 没有重复项
+- 📓 分为 SS, SSR, Vmess, & Trojan
+- 🌎 包含 30+ 个国家
+- 📦 包含 200+ 个节点
+
+## 📦 用法
+
+## 订阅地址：
+
+- Proxies: [https://ghproxy.com/https://raw.githubusercontent.com/freenodes/freenodes/main/clash.yaml](https://ghproxy.com/https://raw.githubusercontent.com/freenodes/freenodes/main/clash.yaml)
+- Proxies with Speed Test: [https://ghproxy.com/https://raw.githubusercontent.com/freenodes/freenodes/main/clash_speed.yaml](https://ghproxy.com/https://raw.githubusercontent.com/freenodes/freenodes/main/clash_speed.yaml)
+
+## 订阅地址一键转换：
 
 - acl4ssr: [https://acl4ssr-sub.github.io/](https://acl4ssr-sub.github.io/)
+
+## 客户端
+
+|  系统   |                                              下载链接                                              | 付费 |
+| :-----: | :------------------------------------------------------------------------------------------------: | :--: |
+|  MacOS  | [Clashx Pro](https://install.appcenter.ms/users/clashx/apps/clashx-pro/distribution_groups/public) |  ❌  |
+| Windows |           [Clash for Windows](https://github.com/Fndroid/clash_for_windows_pkg/releases)           |  ❌  |
+|  Linux  |                  [Clash](https://github.com/Dreamacro/clash/releases/tag/premium)                  |  ❌  |
+| Android |               [ClashForAndroid](https://github.com/Kr328/ClashForAndroid/releases/)                |  ❌  |
+|   IOS   |              [Quantumult X](https://apps.apple.com/us/app/quantumult-x/id1443988620)               |  ✅  |
+|   IOS   |                            [https://nssurge.com/](https://nssurge.com/)                            |  ✅  |
+|   IOS   |               [Shadowrocket](https://apps.apple.com/us/app/shadowrocket/id932747118)               |  ✅  |
 
 ## 声明
 

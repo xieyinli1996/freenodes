@@ -9,9 +9,8 @@
   <a href="https://img.shields.io/github/stars/freenodes/freenodes">
     <img src="https://img.shields.io/badge/all-200+-blue">
   </a>
-   <a href="https://img.shields.io/github/stars/freenodes/freenodes">
+  <a href="https://img.shields.io/github/stars/freenodes/freenodes">
     <img src="https://img.shields.io/badge/country-30+-blue">
-  </a>
   </a>
   <br>
   <a href="https://img.shields.io/github/watchers/freenodes/freenodes">

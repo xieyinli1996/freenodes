@@ -7,10 +7,19 @@
   <img src="https://img.shields.io/github/last-commit/freenodes/freenodes">
   <br>
   <a href="https://img.shields.io/github/stars/freenodes/freenodes">
-    <img src="https://img.shields.io/badge/all-200+-blue">
+    <img src="https://img.shields.io/badge/all-50+-blue">
   </a>
   <a href="https://img.shields.io/github/stars/freenodes/freenodes">
-    <img src="https://img.shields.io/badge/country-30+-blue">
+    <img src="https://img.shields.io/badge/vmess-20+-blue">
+  </a>
+  <a href="https://img.shields.io/github/stars/freenodes/freenodes">
+    <img src="https://img.shields.io/badge/ss-20+-blue">
+  </a>
+  <a href="https://img.shields.io/github/stars/freenodes/freenodes">
+    <img src="https://img.shields.io/badge/ssr-10+-blue">
+  </a>
+    <a href="https://img.shields.io/github/stars/freenodes/freenodes">
+    <img src="https://img.shields.io/badge/trojan-10+-blue">
   </a>
   <br>
   <a href="https://img.shields.io/github/watchers/freenodes/freenodes">
@@ -34,7 +43,7 @@
 
 每 4 小时，FreeNodes 从网络上获取新的代理，包括 SS，SSR，Vmess 和 Trojan 代理。
 
-> FreeNodes 在最新更新中发现来自 30+ 个国家/地区的 200+ 个工作代理。
+> FreeNodes 在最新更新中发现来自 20+ 个国家/地区的 50+ 个工作代理。
 
 ## 🦄 特点
 
@@ -42,20 +51,18 @@
 - 📝 每 4 小时更新一次
 - 😊 没有重复项
 - 📓 分为 SS, SSR, Vmess, & Trojan
-- 🌎 包含 30+ 个国家
-- 📦 包含 200+ 个节点
+- 🌎 包含 20+ 个国家
+- 📦 包含 50+ 个节点
 
 ## 📦 用法
 
-
 ## 配置文件（Clash Premium 核心）
 
-- ClashPremiumFree: [https://gist.githubusercontent.com/freenodes/98b0af810da15dbfdf980bd4b3a8ee3a/raw/e00ff53419c78ac20ebbbd5b1677305409a4d112/ClashPremiumFree.yaml](https://gist.githubusercontent.com/freenodes/98b0af810da15dbfdf980bd4b3a8ee3a/raw/e00ff53419c78ac20ebbbd5b1677305409a4d112/ClashPremiumFree.yaml)
+- ClashPremiumFree: [https://cdn.jsdelivr.net/gh/freenodes/freenodes@main/ClashPremiumFree.yaml](https://cdn.jsdelivr.net/gh/freenodes/freenodes@main/ClashPremiumFree.yaml)
 
 ### Clashx Pro 使用效果
 
-![Clashx Pro](clash.jpg)
-
+![Clashx Pro](https://freenodes.github.io/freenodes/clash.jpg)
 
 ## 纯节点订阅地址：
 
@@ -74,7 +81,7 @@
 |  Linux  |                  [Clash](https://github.com/Dreamacro/clash/releases/tag/premium)                  |  ❌  |
 | Android |               [ClashForAndroid](https://github.com/Kr328/ClashForAndroid/releases/)                |  ❌  |
 |   IOS   |              [Quantumult X](https://apps.apple.com/us/app/quantumult-x/id1443988620)               |  ✅  |
-|   IOS   |                                    [Surge](https://nssurge.com/)                                   |  ✅  |
+|   IOS   |                            [Surge](https://nssurge.com/)                                           |  ✅  |
 |   IOS   |               [Shadowrocket](https://apps.apple.com/us/app/shadowrocket/id932747118)               |  ✅  |
 
 ## 声明
